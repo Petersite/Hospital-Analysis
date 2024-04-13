@@ -82,7 +82,7 @@ At 99.51,  young age had the highest Average heart rate and was 19.63% higher th
 
 ![age](https://github.com/Petersite/Hospital-Analysis/assets/140444150/2bfef788-6e99-4130-9f6f-ca5a72ad2a4c)
 
-﻿Count of gender for 2 represent the female gender (221) was higher than 1 which represent the male gender (206). more women seek healthcare assistance the men
+﻿Count of gender for 2 represent the female gender (221) was higher than 1 which represent the male gender (206). more women seek healthcare assistance than the men
  
  ![gender](https://github.com/Petersite/Hospital-Analysis/assets/140444150/092d0174-23f2-4352-99f9-92de4d7ab154)
 
