@@ -58,13 +58,32 @@ patients are dead in the hospital with Anemia?
 ### 11 patients died of Anemia
 
 
-# Insights and Recommendations:
+# Insights 
 Key insights were found in the patinets analysis 
+
 The Total patient that visited the Hospital is 
 ### 427
+
 The rate of death outcome in the hospital analysis is 
 ### 15.22%
-the top 6 mortality by age is furtherly broken down in visual representation with age ﻿89 accounted for ### 21.21% of Sum of mortality rate.
+
+The top 8 mortality by age is furtherly broken down in visual representation with age ﻿89 accounted for 21.21% of Sum of mortality rate.
+
+![Capture cvb](https://github.com/Petersite/Hospital-Analysis/assets/140444150/318f66ba-09e0-4569-9417-5ed8cf364fc7)
+
+The highest of BMI value correlates with the youngest of the hospital patients. The table below show the Average BMI value across all Ages of patients, 
+
+![table](https://github.com/Petersite/Hospital-Analysis/assets/140444150/5f5c71f8-b7a2-4541-a9e6-93b5381c79c4)
+
+
+At 99.51,  young age had the highest Average heart rate and was 19.63% higher than old age, which had the lowest Average heart rate at 83.18.
+
+![age](https://github.com/Petersite/Hospital-Analysis/assets/140444150/2bfef788-6e99-4130-9f6f-ca5a72ad2a4c)
+
+
+# Recommendations
+The health experts are urged to work with the key insights in improving the general health of patients and tackle the imbalances among the patients age groups.
+
 
 
 
