@@ -1,4 +1,4 @@
-# Hospital-Analysis
+# Hospital Performance Analysis
 ## Introduction
 
 ### Improving Patient Care:
@@ -15,6 +15,7 @@ Data was collected from a reliable source Kaggle.com
 ### Removing rows with missing values
 ### Use text functions (e.g., UPPER, LOWER, PROPER) to standardize text formatting.
 ###  the use of conditional formattin gin powerQuery editor for the age groups
+### Use of Data Analysis Expressions DAX for numerical measure
 
 # Data Visualization 
 Here is a visual respresentation of the the dashboarb showing the performance analysis below
