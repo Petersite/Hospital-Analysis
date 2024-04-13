@@ -60,6 +60,14 @@ patients are dead in the hospital with Anemia?
 
 # Insights and Recommendations:
 Key insights were found in the patinets analysis 
+The Total patient that visited the Hospital is 
+### 427
+The rate of death outcome in the hospital analysis is 
+### 15.22%
+the top 6 mortality by age is furtherly broken down in visual representation with age ﻿89 accounted for ### 21.21% of Sum of mortality rate.
+
+
+
 
 
 
