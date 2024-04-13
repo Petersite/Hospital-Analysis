@@ -39,6 +39,8 @@ the age group experiences that experienced the highest mortality within the hosp
 the most prevalent gender in the hospital is the
 ### female gender represent by 2 in the pie chart
 
+
+
 ## Health Condition Exploration:
 
 the number of patients that died in the hospital with atrial fibrillation :
@@ -79,6 +81,11 @@ The highest of BMI value correlates with the youngest of the hospital patients. 
 At 99.51,  young age had the highest Average heart rate and was 19.63% higher than old age, which had the lowest Average heart rate at 83.18.
 
 ![age](https://github.com/Petersite/Hospital-Analysis/assets/140444150/2bfef788-6e99-4130-9f6f-ca5a72ad2a4c)
+
+﻿Count of gender for 2 represent the female gender (221) was higher than 1 which represent the male gender (206). more women seek healthcare assistance the men
+ 
+ ![gender](https://github.com/Petersite/Hospital-Analysis/assets/140444150/092d0174-23f2-4352-99f9-92de4d7ab154)
+
 
 
 # Recommendations
