@@ -5,8 +5,6 @@
 By analyzing patient data, healthcare providers can identify patterns and trends in diseases, treatments, and outcomes. This information helps them make more informed decisions about patient care, leading to better treatment strategies and improved outcomes.
 ### Identifying Health Trends: 
 Analyzing patient data allows healthcare organizations to identify emerging health trends in their patient populations. This could include outbreaks of infectious diseases, increases in chronic conditions, or changes in demographics that may require adjustments to healthcare delivery.
-### Enhancing Operational Efficiency: 
-Data analysis can help hospitals optimize their operations by identifying inefficiencies in workflows, resource allocation, and patient scheduling. By streamlining processes and improving resource utilization, hospitals can reduce costs and wait times while increasing patient satisfaction.
 
 ## Data collection and ETL  :
 Data was collected from a reliable source Kaggle.com 
@@ -16,6 +14,7 @@ Data was collected from a reliable source Kaggle.com
 ### correction of error spellings
 ### Removing rows with missing values
 ### Use text functions (e.g., UPPER, LOWER, PROPER) to standardize text formatting.
+###  the use of conditional formattin gin powerQuery editor for the age groups
 
 # Data Visualization 
 Here is a visual respresentation of the the dashboarb showing the performance analysis below
