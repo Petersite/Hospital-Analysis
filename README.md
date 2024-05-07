@@ -20,8 +20,9 @@ Data was collected from a reliable source Kaggle.com
 # Data Visualization 
 Here is a visual respresentation of the the dashboarb showing the performance analysis below
 
+![sss](https://github.com/Petersite/Hospital-Analysis/assets/140444150/3ca8b946-f9e2-4b61-8a98-6393390894e5)
 
-![Capture hosp](https://github.com/Petersite/Hospital-Analysis/assets/140444150/67dc4c10-7edb-4609-81f0-25816ca64598)
+
 
 
 
